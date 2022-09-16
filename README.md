@@ -1,4 +1,5 @@
 # Frontend Mentor - Testimonials grid section
+## View Deployment Link: https://diomides.github.io/testimonial-grid-challenge/
 
 ![Design preview for the Testimonials grid section coding challenge](./design/desktop-preview.jpg)
 
